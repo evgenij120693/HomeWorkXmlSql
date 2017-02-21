@@ -1,0 +1,15 @@
+INFO    2017-02-22 03:21:29,367 [Thread-0] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'status_driver' successfull
+INFO    2017-02-22 03:21:29,367 [Thread-1] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'status_order' successfull
+INFO    2017-02-22 03:21:29,377 [Thread-5] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'client' successfull
+INFO    2017-02-22 03:21:29,379 [Thread-4] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'auto' successfull
+INFO    2017-02-22 03:21:29,397 [Thread-2] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'driver' successfull
+INFO    2017-02-22 03:21:29,398 [Thread-3] ru.svetozarov.thread_manager.ThreadSQL  - Import in table 'order' successfull
+INFO    2017-02-22 03:21:29,398 [main] ru.svetozarov.thread_manager.ManagerThread  - Import in database successfull.
+INFO    2017-02-22 03:23:53,664 [main] ru.svetozarov.thread_manager.ManagerThread  - Export from database sucessfull.
+INFO    2017-02-22 03:33:20,399 [Thread-1] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'status_order' successfull
+INFO    2017-02-22 03:33:20,400 [Thread-5] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'client' successfull
+INFO    2017-02-22 03:33:20,399 [Thread-0] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'status_driver' successfull
+INFO    2017-02-22 03:33:20,407 [Thread-4] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'auto' successfull
+INFO    2017-02-22 03:33:20,427 [Thread-2] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'driver' successfull
+INFO    2017-02-22 03:33:20,440 [Thread-3] ru.svetozarov.thread_manager.ThreadSQL  - Export from table 'order' successfull
+INFO    2017-02-22 03:33:20,440 [main] ru.svetozarov.thread_manager.ManagerThread  - Export from database sucessfull.

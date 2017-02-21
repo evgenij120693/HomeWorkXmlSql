@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mysql:management:1.1.6" type="repository">
+    <properties maven-id="com.mysql:management:1.1.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mysql/management/1.1.6/management-1.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/3.1.12/mysql-connector-java-3.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

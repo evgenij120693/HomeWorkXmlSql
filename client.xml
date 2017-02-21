@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListClient>
+    <client>
+        <id>1</id>
+        <name>Минделеев</name>
+        <sex>1</sex>
+        <phone>89235476574</phone>
+        <login>mind</login>
+        <password>1234</password>
+    </client>
+    <client>
+        <id>2</id>
+        <name>Пушкин</name>
+        <sex>1</sex>
+        <phone>89237456741</phone>
+        <login>pishkin</login>
+        <password>1234</password>
+    </client>
+    <client>
+        <id>3</id>
+        <name>Скороход Александр</name>
+        <sex>1</sex>
+        <phone>85465752131</phone>
+        <login>skorohod</login>
+        <password>1234</password>
+    </client>
+    <client>
+        <id>4</id>
+        <name>Курочкина</name>
+        <sex>0</sex>
+        <phone>87456321497</phone>
+        <login>kuroch</login>
+        <password>1234</password>
+    </client>
+</ListClient>

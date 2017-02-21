@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StatusDrive>
+    <status_driver>
+        <id>1</id>
+        <name>Не на смене</name>
+        <description>Водитель в данный моент не работает</description>
+    </status_driver>
+    <status_driver>
+        <id>2</id>
+        <name>Готов</name>
+        <description>Ожидает заявки</description>
+    </status_driver>
+    <status_driver>
+        <id>3</id>
+        <name>Еду в пункт отправления</name>
+        <description>Водитель едет за пассажиром</description>
+    </status_driver>
+    <status_driver>
+        <id>4</id>
+        <name>Клиент в машине</name>
+        <description>Водител забрал клиента, везет в пункт прибытия</description>
+    </status_driver>
+    <status_driver>
+        <id>5</id>
+        <name>Готов</name>
+        <description>Ожидает заявки</description>
+    </status_driver>
+</StatusDrive>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Autos>
+    <auto>
+        <id>1</id>
+        <model>Lada</model>
+        <reg_number>246</reg_number>
+        <color>зеленый</color>
+    </auto>
+    <auto>
+        <id>2</id>
+        <model>BMW</model>
+        <reg_number>846</reg_number>
+        <color>серебристый</color>
+    </auto>
+    <auto>
+        <id>3</id>
+        <model>Toyota</model>
+        <reg_number>613</reg_number>
+        <color>черный</color>
+    </auto>
+    <auto>
+        <id>5</id>
+        <model>Nissan</model>
+        <reg_number>456</reg_number>
+        <color>Синий</color>
+    </auto>
+    <auto>
+        <id>6</id>
+        <model>Lexus</model>
+        <reg_number>999</reg_number>
+        <color>красный</color>
+    </auto>
+</Autos>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StatusOrderList>
+    <status_order>
+        <id>1</id>
+        <name>Зарегестрирована</name>
+        <description>Заявка зарегестрирована.Идет поиск подходящего автомобиля.</description>
+    </status_order>
+    <status_order>
+        <id>2</id>
+        <name>Назначена</name>
+        <description>Заяка назначена. В пункт отправки направлятся автомобиль.</description>
+    </status_order>
+    <status_order>
+        <id>3</id>
+        <name>На месте</name>
+        <description>Машина подъехала,клиент  может выходить.</description>
+    </status_order>
+    <status_order>
+        <id>4</id>
+        <name>Выполнена</name>
+        <description>Завка выполнена, клиент доставлен.</description>
+    </status_order>
+    <status_order>
+        <id>5</id>
+        <name>Отменена</name>
+        <description>Заявка отменена</description>
+    </status_order>
+</StatusOrderList>

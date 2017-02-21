@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListDriver>
+    <driver>
+        <id>1</id>
+        <last_name>Иванов</last_name>
+        <first_name>Иванчик</first_name>
+        <phone_number>8923546789</phone_number>
+        <login>ivanchik</login>
+        <password>1234</password>
+        <rating>8</rating>
+        <auto>
+            <id>1</id>
+            <model>Lada</model>
+            <reg_number>246</reg_number>
+            <color>зеленый</color>
+        </auto>
+        <status>
+            <id>1</id>
+            <name>Не на смене</name>
+            <description>Водитель в данный моент не работает</description>
+        </status>
+    </driver>
+    <driver>
+        <id>3</id>
+        <last_name>Петров</last_name>
+        <first_name>Петр</first_name>
+        <phone_number>87564567412</phone_number>
+        <login>petr</login>
+        <password>1234</password>
+        <rating>5</rating>
+        <auto>
+            <id>3</id>
+            <model>Toyota</model>
+            <reg_number>613</reg_number>
+            <color>черный</color>
+        </auto>
+        <status>
+            <id>1</id>
+            <name>Не на смене</name>
+            <description>Водитель в данный моент не работает</description>
+        </status>
+    </driver>
+    <driver>
+        <id>2</id>
+        <last_name>Иванов</last_name>
+        <first_name>Иван</first_name>
+        <phone_number>8923546789</phone_number>
+        <login>ivan</login>
+        <password>1234</password>
+        <rating>10</rating>
+        <auto>
+            <id>2</id>
+            <model>BMW</model>
+            <reg_number>846</reg_number>
+            <color>серебристый</color>
+        </auto>
+        <status>
+            <id>2</id>
+            <name>Готов</name>
+            <description>Ожидает заявки</description>
+        </status>
+    </driver>
+    <driver>
+        <id>4</id>
+        <last_name>Конев</last_name>
+        <first_name>Александр</first_name>
+        <phone_number>89456475613</phone_number>
+        <login>aleksandr</login>
+        <password>1234</password>
+        <rating>7</rating>
+        <auto>
+            <id>5</id>
+            <model>Nissan</model>
+            <reg_number>456</reg_number>
+            <color>Синий</color>
+        </auto>
+        <status>
+            <id>3</id>
+            <name>Еду в пункт отправления</name>
+            <description>Водитель едет за пассажиром</description>
+        </status>
+    </driver>
+</ListDriver>
